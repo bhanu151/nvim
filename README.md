@@ -1,3 +1,3 @@
-# 💤 LazyVim
+# 💤 Bhanu's neovim config
 
-Bhanu's lazyvim config updated from starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Bhanu's neovim config updated from starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
