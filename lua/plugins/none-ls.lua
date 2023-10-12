@@ -10,7 +10,7 @@ return {
         -- nls.builtins.formatting.black.with({
         --   extra_args = { "--preview" },
         -- }),
-        nls.builtins.diagnostics.ruff,
+        -- nls.builtins.diagnostics.ruff,
       })
     end,
   },
